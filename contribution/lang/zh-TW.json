@@ -308,7 +308,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"mainHubName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "返回${mainHubName}",
+ 	 	 	 	 	"trans": "返回至${mainHubName}",
  	 	 	 	 	"eng": "Return to ${mainHubName}"
  	 	 	 	}
  	 	 	},
@@ -324,7 +324,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"segmentStationName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "返回${segmentStationName}",
+ 	 	 	 	 	"trans": "返回至${segmentStationName}",
  	 	 	 	 	"eng": "return to ${segmentStationName}"
  	 	 	 	}
  	 	 	},
@@ -549,37 +549,37 @@
  	"tier": {
  	 	"trash": {
  	 	 	"name": {
- 	 	 	 	"trans": "廢棄",
+ 	 	 	 	"trans": "二手的",
  	 	 	 	"eng": "trash"
  	 	 	}
  	 	},
  	 	"common": {
  	 	 	"name": {
- 	 	 	 	"trans": "普通",
+ 	 	 	 	"trans": "普通的",
  	 	 	 	"eng": "common"
  	 	 	}
  	 	},
  	 	"highQuality": {
  	 	 	"name": {
- 	 	 	 	"trans": "高級",
+ 	 	 	 	"trans": "高級的",
  	 	 	 	"eng": "high quality"
  	 	 	}
  	 	},
  	 	"rare": {
  	 	 	"name": {
- 	 	 	 	"trans": "稀有",
+ 	 	 	 	"trans": "稀有的",
  	 	 	 	"eng": "rare"
  	 	 	}
  	 	},
  	 	"legendary": {
  	 	 	"name": {
- 	 	 	 	"trans": "傳奇",
+ 	 	 	 	"trans": "傳奇的",
  	 	 	 	"eng": "legendary"
  	 	 	}
  	 	},
  	 	"epic": {
  	 	 	"name": {
- 	 	 	 	"trans": "史詩",
+ 	 	 	 	"trans": "史詩的",
  	 	 	 	"eng": "epic"
  	 	 	}
  	 	}
@@ -643,13 +643,13 @@
  	 	},
  	 	"upperArmor": {
  	 	 	"name": {
- 	 	 	 	"trans": "上身裝甲",
+ 	 	 	 	"trans": "上半身裝甲",
  	 	 	 	"eng": "upper armor"
  	 	 	}
  	 	},
  	 	"lowerArmor": {
  	 	 	"name": {
- 	 	 	 	"trans": "下身裝甲",
+ 	 	 	 	"trans": "下半身裝甲",
  	 	 	 	"eng": "lower armor"
  	 	 	}
  	 	},
@@ -877,7 +877,7 @@
  	 	},
  	 	"expMemory": {
  	 	 	"name": {
- 	 	 	 	"trans": "經驗記憶",
+ 	 	 	 	"trans": "經驗記憶載體",
  	 	 	 	"eng": "Experience Memory"
  	 	 	},
  	 	 	"description": {
@@ -1219,17 +1219,17 @@
  	 	 	 	"eng": "Chat exploit transmitter [UwU]"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "一個Expwoit Moduwe，它可以挖掘gwobaw聊天包並修改它，Pewfowming Man-In-Indwe攻擊。 \r\n          將全球聊天的所有對話轉換為uwu。 這個效果哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇",
+ 	 	 	 	"trans": "一個開w採wu模組uwu，它可以挖掘全w球w聊天包並修改它，u並執wu行中w間w人uwu攻擊。 \r\n          將全球聊天的所有對話轉換為uwu。 這個效果哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇哇",
  	 	 	 	"eng": "A expwoit moduwe that intewcepts gwobaw chat packages and modifies it, pewfowming man-in-the-middwe attack.\r\n         twansfowms aww speech at gwobaw chat to uwu speak. This effects aww pwayews fow 10 minutes"
  	 	 	}
  	 	},
  	 	"upgradeResetShard": {
  	 	 	"name": {
- 	 	 	 	"trans": "恢復出廠設置碎片",
+ 	 	 	 	"trans": "原廠設置初始化碎片",
  	 	 	 	"eng": "Factory reset shard"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "存儲默認設置和算法的碎片, 可用於將裝備恢復出廠設置",
+ 	 	 	 	"trans": "存儲默認設置和算法的碎片, 可用於將裝備恢復原廠設置",
  	 	 	 	"eng": "A shard stores default settings and algorithm for equipments, this is used for factory-resetting your equipments"
  	 	 	}
  	 	},
@@ -1259,7 +1259,7 @@
  	 	 	 	"eng": "CyberTunnel VPN"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "擔心你在瀏覽網絡空間時大哥在窺探你?\r\n         你的對講機總是被惡意攻擊?\r\n         使用CyberTunnel VPN來保護和加密你的Netrunning體驗!\r\n        \r\n         激活後, 忽略任何聊天漏洞1小時",
+ 	 	 	 	"trans": "擔心在瀏覽網絡空間時大葛格偷窺你嗎?\r\n         你的對講機總是被惡意攻擊嗎?\r\n         使用CyberTunnel VPN來保護和加密你的瀏覽體驗!\r\n        \r\n         激活後, 忽略任何聊天漏洞1小時",
  	 	 	 	"eng": "Worried the Big Brother spying on you while you browse the cyberspace?\r\n        your intercoms always get hacked by malicious attacks? \r\n        use CyberTunnel VPN to protect and encrypt your netrunning experience! \r\n        \r\n        Once activated, ignores any chat exploit for 1 hour"
  	 	 	}
  	 	},
@@ -1285,7 +1285,7 @@
  	 	},
  	 	"rngInterferer": {
  	 	 	"name": {
- 	 	 	 	"trans": "rng干擾",
+ 	 	 	 	"trans": "RNG干擾",
  	 	 	 	"eng": "RNG Interferer"
  	 	 	},
  	 	 	"description": {
@@ -1377,7 +1377,7 @@
  	 	 	"eng": "Do you think you are strong enough? take on stronger enemies in dungeon!\r\n                        remember to buy some healing item! you won't regen after battle in dungeon"
  	 	},
  	 	"enemyInRoomDoorError": {
- 	 	 	"trans": "在房間裡仍然敵人時，你不能進入其他房間",
+ 	 	 	"trans": "房間裡仍然有敵人時，你不能進入其他房間",
  	 	 	"eng": "You cannot use door while there is still enemy in room"
  	 	},
  	 	"enemyInCrateDoorError": {
@@ -1513,7 +1513,7 @@
  	 	 	 	"eng": "Allies and Friends"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "歡迎來到CyberCode Online， \r\n         在線上交朋友對你完成合作任務非常有用 \r\n         如果有任何問題，請別介意在聊天室中諮詢其他玩家:) \r\n         請記住，如果你在聊天室中發送垃圾內容，你將會被禁言。",
+ 	 	 	 	"trans": "歡迎來到CyberCode Online， \r\n         在線上交朋友對於完成合作任務非常有用， \r\n         如果有任何問題，請別介意在聊天室中諮詢其他玩家:) \r\n         請記住，如果你在聊天室中發送垃圾內容，你將會被禁言。",
  	 	 	 	"eng": "Welcome to CyberCode Online,\r\n        making friends with people online will be very useful for you to complete co-op quests,\r\n        go ahead ask people online if you have got any questions :)\r\n        Remember, if you spam in the chat, you will be muted by moderators."
  	 	 	}
  	 	},
@@ -1523,7 +1523,7 @@
  	 	 	 	"eng": "Reach printing rank 3"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "使用緩存列印的物品等級由你的列印等級決定， \r\n         升級你的列印等級，以使你可以列印更高等級的物品。 \r\n        \r\n         你可以在[市中心]找到[3D分子列印機]，使用它來列印一些緩存來升級你的列印等級",
+ 	 	 	 	"trans": "使用快取列印的物品等級由你的分子列印等級決定， \r\n         升級你的分子列印等級，來讓你列印更高等級的物品。 \r\n        \r\n         你可以在[市中心]找到[3D分子列印機]，使用它來列印一些快取來提升你的分子列印等級",
  	 	 	 	"eng": "The level of itemS you print with Caches are determined by your Printing Rank,\r\n        level up your Printing Rank so you can print higher level items.\r\n        \r\n        You can find Molecular 3D Printer at [Central Hub], use it to print some caches to level up your Printing Rank"
  	 	 	}
  	 	},
@@ -1533,7 +1533,7 @@
  	 	 	 	"eng": "Open Crate"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "在地下城中開啟4個寶箱，獲得寶箱中吸引人的戰利品！",
+ 	 	 	 	"trans": "在地下城中開啟4個寶箱，來獲得吸引人的戰利品！",
  	 	 	 	"eng": "Open 4 crates in dungeon to get them sweet loots!"
  	 	 	}
  	 	},
@@ -1573,7 +1573,7 @@
  	 	 	 	"eng": "Market merchant"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "你可以向在玩家市場的玩家出售和購買物品，來試試在玩家市場添加物品吧",
+ 	 	 	 	"trans": "你可以向玩家市場的玩家出售和購買物品，來試試在玩家市場添加物品吧",
  	 	 	 	"eng": "You can sell and purchase items from players in the player market, try it out by adding an item to the player market"
  	 	 	}
  	 	}
@@ -1588,11 +1588,11 @@
  	 	 	 	"vars": [
  	 	 	 	 	"skipCount"
  	 	 	 	],
- 	 	 	 	"trans": "跳過中${skipCount}",
+ 	 	 	 	"trans": "加速中${skipCount}",
  	 	 	 	"eng": "Skipping ${skipCount}"
  	 	 	},
  	 	 	"skipAvailable": {
- 	 	 	 	"trans": "可以使用跳過",
+ 	 	 	 	"trans": "可使用加速",
  	 	 	 	"eng": "Skip Available"
  	 	 	}
  	 	},
@@ -1635,7 +1635,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"hiddenCount"
  	 	 	 	],
- 	 	 	 	"trans": "${hiddenCount}個可以在這裡的可互動元素，升級以解鎖它們。",
+ 	 	 	 	"trans": "還有${hiddenCount}個可以與其互動的元素，升級以解鎖它們。",
  	 	 	 	"eng": "${hiddenCount} more interactables can be unlocked at this location, level up to unlock them."
  	 	 	},
  	 	 	"travelHiddenLinks": {
@@ -1788,7 +1788,7 @@
  	 	 	 	"eng": "gang"
  	 	 	},
  	 	 	"mail": {
- 	 	 	 	"trans": "收件箱",
+ 	 	 	 	"trans": "信箱",
  	 	 	 	"eng": "mail"
  	 	 	},
  	 	 	"noti": {
@@ -1803,7 +1803,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"minLevel"
  	 	 	 	],
- 	 	 	 	"trans": "你需要至少級別${minLevel}來發送聊天消息",
+ 	 	 	 	"trans": "你需要至少${minLevel}級來發送聊天消息",
  	 	 	 	"eng": "You need to be at least level ${minLevel} to send chat messages"
  	 	 	},
  	 	 	"spamBlock": {
@@ -2057,7 +2057,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"occupationPoint": {
- 	 	 	 	"trans": "控製香格里拉",
+ 	 	 	 	"trans": "控制香格里拉",
  	 	 	 	"eng": "Control over Shangri-la"
  	 	 	},
  	 	 	"occupation": {
@@ -2147,7 +2147,7 @@
  	 	 	 	 	"eng": "Error"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "累計失敗破壞性",
+ 	 	 	 	 	"trans": "破壞機率已累加",
  	 	 	 	 	"eng": "Destructive failure accrued"
  	 	 	 	}
  	 	 	},
@@ -2203,22 +2203,22 @@
  	 	 	 	 	"eng": "equipment not found"
  	 	 	 	},
  	 	 	 	"subTitle": {
- 	 	 	 	 	"trans": "選擇要繼續的設備",
+ 	 	 	 	 	"trans": "選擇要加工的設備",
  	 	 	 	 	"eng": "Select an equipment to continue"
  	 	 	 	}
  	 	 	},
  	 	 	"haveEquipment": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "符合兼容的物品",
+ 	 	 	 	 	"trans": "已偵測到兼容物品",
  	 	 	 	 	"eng": "Compatible Item Identified"
  	 	 	 	},
  	 	 	 	"subTitle": {
- 	 	 	 	 	"trans": "所有系統準備好",
+ 	 	 	 	 	"trans": "系統已就緒",
  	 	 	 	 	"eng": "All system ready"
  	 	 	 	}
  	 	 	},
  	 	 	"failureRate": {
- 	 	 	 	"trans": "受破壞的機率",
+ 	 	 	 	"trans": "破壞機率",
  	 	 	 	"eng": "Chance of destructive failure"
  	 	 	},
  	 	 	"selectEquipmentTitle": {
@@ -2263,11 +2263,11 @@
  	 	},
  	 	"noPrintableCaches": {
  	 	 	"title": {
- 	 	 	 	"trans": "未找到裝備快取記憶體",
+ 	 	 	 	"trans": "未找到裝備快取",
  	 	 	 	"eng": "Equipment Cache not found"
  	 	 	},
  	 	 	"subTitle": {
- 	 	 	 	"trans": "從敵人和地下城中收集快取記憶體來列印你的新裝備",
+ 	 	 	 	"trans": "從敵人和地下城中收集快取來列印你的新裝備",
  	 	 	 	"eng": "gather the caches from enemies and dungeons to print your new weapons and armor"
  	 	 	}
  	 	},
@@ -2318,7 +2318,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"noBalance": {
- 	 	 	 	"trans": "當你沒有結餘時，你不能進行提款。",
+ 	 	 	 	"trans": "當沒有結餘時，你不能進行提款。",
  	 	 	 	"eng": "You can't withdraw when you have no balance."
  	 	 	},
  	 	 	"depositDesc": {
@@ -2365,7 +2365,7 @@
  	 	},
  	 	"list": {
  	 	 	"longPressToMultiSelect": {
- 	 	 	 	"trans": "長按以多項選擇",
+ 	 	 	 	"trans": "長按以選擇多個",
  	 	 	 	"eng": "Long press to multi-select"
  	 	 	}
  	 	},
@@ -2564,7 +2564,7 @@
  	 	 	 	"eng": "Paste or enter your coupon here"
  	 	 	},
  	 	 	"confirm": {
- 	 	 	 	"trans": "激活優惠碼",
+ 	 	 	 	"trans": "啟用優惠碼",
  	 	 	 	"eng": "Activate Coupon"
  	 	 	}
  	 	},
@@ -2574,7 +2574,7 @@
  	 	 	 	"eng": "Day"
  	 	 	},
  	 	 	"canClaim": {
- 	 	 	 	"trans": "可以使用",
+ 	 	 	 	"trans": "可領取",
  	 	 	 	"eng": "Available"
  	 	 	},
  	 	 	"claimed": {
@@ -2586,7 +2586,7 @@
  	 	 	 	"eng": "Locked"
  	 	 	},
  	 	 	"nextLoginWindow": {
- 	 	 	 	"trans": "下一個登錄日",
+ 	 	 	 	"trans": "下一次登錄日",
  	 	 	 	"eng": "Next Login Period"
  	 	 	}
  	 	},
@@ -2723,7 +2723,7 @@
  	 	 	 	 	"eng": "set character name to \"${name}\"?"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "你將來無法更改",
+ 	 	 	 	 	"trans": "你未來將無法更改名稱",
  	 	 	 	 	"eng": "You cannot change this in the future"
  	 	 	 	},
  	 	 	 	"confirmButton": {
@@ -2739,11 +2739,11 @@
  	 	 	 	 	 	"timeSkipMinutes",
  	 	 	 	 	 	"timeSkipCost"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "全球跳過（${timeSkipMinutes} 分鐘，費用: ${timeSkipCost}Unit）",
+ 	 	 	 	 	"trans": "全球加速（${timeSkipMinutes} 分鐘，費用: ${timeSkipCost}Unit）",
  	 	 	 	 	"eng": "Global Skip (${timeSkipMinutes} Min, Cost ${timeSkipCost} Units)"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "'全球跳過'讓你跳過掛機等待時間，並立即完成。 \n     此效果將應用於所有正在執行掛機任務的玩家",
+ 	 	 	 	 	"trans": "'全球加速'讓你跳過掛機等待時間，並立即完成。 \n     此效果將應用於所有正在執行掛機任務的玩家",
  	 	 	 	 	"eng": "Global Skip allow you to skip the AFK waiting time, and finish it instantly.\n    this effect will be applied to all player performing AFK task"
  	 	 	 	}
  	 	 	},
@@ -2752,7 +2752,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"itemSkipMinutes"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "免費跳過（${itemSkipMinutes} 分鐘）",
+ 	 	 	 	 	"trans": "免費加速（${itemSkipMinutes} 分鐘）",
  	 	 	 	 	"eng": "Free time skip (${itemSkipMinutes} Min)"
  	 	 	 	},
  	 	 	 	"description": {
@@ -2760,34 +2760,34 @@
  	 	 	 	 	 	"timeSkipItemName",
  	 	 	 	 	 	"itemSkipMinutes"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "使用你的${timeSkipItemName}來跳過${itemSkipMinutes}分鐘",
+ 	 	 	 	 	"trans": "使用你的${timeSkipItemName}來加速${itemSkipMinutes}分鐘",
  	 	 	 	 	"eng": "Use one of your ${timeSkipItemName} to skip ${itemSkipMinutes} minutes"
  	 	 	 	}
  	 	 	},
  	 	 	"inProgressBox": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "全球跳過正在進行中",
+ 	 	 	 	 	"trans": "全球加速正在進行中",
  	 	 	 	 	"eng": "Global Skip in progress"
  	 	 	 	},
  	 	 	 	"subtitle": {
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"skippingPlayerCount"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "正在加速${skippingPlayerCount}用戶..",
+ 	 	 	 	 	"trans": "正在替${skippingPlayerCount}用戶加速..",
  	 	 	 	 	"eng": "Accelerating ${skippingPlayerCount} users.."
  	 	 	 	}
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "全球跳過讓你跳過掛機等待時間，並立即完成。 \n     此效果將應用於執行掛機任務的所有玩家",
+ 	 	 	 	"trans": "全球加速讓你跳過掛機等待時間，並立即完成。 \n     此效果將應用於執行掛機任務的所有玩家",
  	 	 	 	"eng": "Global Skip allow you to skip the AFK waiting time, and finish it instantly.\n    this effect will be applied to all players performing an AFK task"
  	 	 	},
  	 	 	"confirmModal": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "確認使用跳過？",
+ 	 	 	 	 	"trans": "確認使用加速？",
  	 	 	 	 	"eng": "Confirm use skip?"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "全球跳過將跳過所有執行掛機任務的玩家的等待時間",
+ 	 	 	 	 	"trans": "全球加速將跳過所有執行掛機任務的玩家的等待時間",
  	 	 	 	 	"eng": "Global Skip will skip the waiting time for all players performing AFK task"
  	 	 	 	}
  	 	 	}
@@ -2812,7 +2812,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"abortWarningTitle": {
- 	 	 	 	"trans": "你確定你想要中止嗎？",
+ 	 	 	 	"trans": "你確定要中止嗎？",
  	 	 	 	"eng": "Are you sure you want to abort?"
  	 	 	}
  	 	},
@@ -2924,7 +2924,7 @@
  	 	},
  	 	"combat": {
  	 	 	"enemyIsDeadTitle": {
- 	 	 	 	"trans": "你在這裡什麼都不找到",
+ 	 	 	 	"trans": "這裡什麼都找不到",
  	 	 	 	"eng": "You found nothing here"
  	 	 	},
  	 	 	"equipmentBrokenMsg": {
@@ -2937,7 +2937,7 @@
  	 	},
  	 	"dungeonLobby": {
  	 	 	"noDungeon": {
- 	 	 	 	"trans": "目前沒有公開地下城",
+ 	 	 	 	"trans": "目前沒有公開的地下城",
  	 	 	 	"eng": "There is currently no public dungeon"
  	 	 	},
  	 	 	"showCanJoinOnly": {
@@ -2952,7 +2952,7 @@
  	 	 	 	 	"eng": "Nearby Enemies"
  	 	 	 	},
  	 	 	 	"desc": {
- 	 	 	 	 	"trans": "在街上掃描附近的敵人，地下城外的敵人更弱，更容易被擊敗。 但從他們身上得到的經驗值更少",
+ 	 	 	 	 	"trans": "在街上掃描附近的敵人，地下城外的敵人更弱，更容易被擊敗。但從他們身上得到的經驗值更少",
  	 	 	 	 	"eng": "Scans for nearby enemies on the street, enemies outside dungeons are weaker and easier to defeat. However they also drop less exp"
  	 	 	 	}
  	 	 	}
@@ -2976,7 +2976,7 @@
  	 	 	 	 	"eng": "Create Lore"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "此物品沒有社區百科全書，成為第一個為它創建百科全書的人。",
+ 	 	 	 	 	"trans": "此物品尚未加入社區百科全書中，成為第一個將它收錄進百科全書的人。",
  	 	 	 	 	"eng": "There is no community lore for this item yet, be the first to create one for it."
  	 	 	 	}
  	 	 	},
@@ -3004,12 +3004,12 @@
  	 	"equipment": {
  	 	 	"lowPrintLevelTip": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "低印刷級別",
+ 	 	 	 	 	"trans": "列印等級過低",
  	 	 	 	 	"eng": "Low Printing Rank"
  	 	 	 	}
  	 	 	},
  	 	 	"lowPrintLevelTip2": {
- 	 	 	 	"trans": "通過打印更多快取記憶體來增加你的印刷級別以打造更強大的武器",
+ 	 	 	 	"trans": "通過列印更多快取來提升你的分子列印等級以打造更強大的武器",
  	 	 	 	"eng": "Increase your Printing Rank to create more powerful weapons by printing more caches"
  	 	 	}
  	 	},
@@ -3022,7 +3022,7 @@
  	 	 	},
  	 	 	"bindModal": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "選擇可用物品以綁定到快捷欄",
+ 	 	 	 	 	"trans": "選擇欲綁定到快捷欄之物品",
  	 	 	 	 	"eng": "Select a usable item to bind to a quick slot"
  	 	 	 	}
  	 	 	}
@@ -3193,7 +3193,7 @@
  	 	 	 	"eng": "Armor"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "減少從敵人接收到的傷害",
+ 	 	 	 	"trans": "減少從敵人受到的傷害",
  	 	 	 	"eng": "Decreases damage taken from enemies"
  	 	 	}
  	 	},
@@ -3299,7 +3299,7 @@
  	 	 	 	"eng": "Pocket"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "提高背包上限",
+ 	 	 	 	"trans": "提高物品欄上限",
  	 	 	 	"eng": "Increases inventory capacity"
  	 	 	}
  	 	},
@@ -3517,7 +3517,7 @@
  	 	},
  	 	"christmasGift": {
  	 	 	"name": {
- 	 	 	 	"trans": "解鎖神秘的容器",
+ 	 	 	 	"trans": "解鎖神秘容器",
  	 	 	 	"eng": "Unlock Mysterious Container"
  	 	 	}
  	 	}
@@ -3552,7 +3552,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"total"
  	 	 	 	],
- 	 	 	 	"trans": "它將花費${total}比特幣總數",
+ 	 	 	 	"trans": "它將花費${total}比特幣",
  	 	 	 	"eng": "it will cost ${total} Bitcoin total"
  	 	 	}
  	 	},
@@ -3600,7 +3600,7 @@
  	 	 	},
  	 	 	"goodReview": {
  	 	 	 	"title1": {
- 	 	 	 	 	"trans": "哇，非常感謝您！ 這令我我感到很榮幸，請務必在我們的商店頁面留下留言:)",
+ 	 	 	 	 	"trans": "哇，非常感謝您！ 這令我感到很榮幸，請務必在我們的商店頁面留言:)",
  	 	 	 	 	"eng": "Wow, thanks so much! I'm honored, please make it official by leaving them on our store page :)"
  	 	 	 	},
  	 	 	 	"title2": {
@@ -3623,7 +3623,7 @@
  	 	 	 	"eng": "Player contributed content"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "你可以通過編輯GitHub頁面中的配置文件來貢獻這樣的內容和更多。",
+ 	 	 	 	"trans": "你可以通過編輯GitHub頁面中的配置文件來貢獻內容或更多。",
  	 	 	 	"eng": "You can contribute to content like this and many more too by editing the config files in our GitHub page."
  	 	 	},
  	 	 	"confirm": {
@@ -3669,7 +3669,7 @@
  	 	 	},
  	 	 	"noShowToggle": {
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "你可以在Profile > Tutorial選項卡上查看完整教程",
+ 	 	 	 	 	"trans": "你可以在個人檔案 > 教學上查看完整教程",
  	 	 	 	 	"eng": "You can see the full tutorial at Profile > Tutorial tab"
  	 	 	 	},
  	 	 	 	"label": {
@@ -3690,15 +3690,15 @@
  	 	 	 	"eng": "Please agree to the rules below before start chatting"
  	 	 	},
  	 	 	"rule1": {
- 	 	 	 	"trans": "沒有垃圾郵件或無意義的訊息。",
+ 	 	 	 	"trans": "不發送垃圾郵件或無意義的訊息。",
  	 	 	 	"eng": "No spamming or meaningless message."
  	 	 	},
  	 	 	"rule2": {
- 	 	 	 	"trans": "沒有個人攻擊或威脅。",
+ 	 	 	 	"trans": "不做人身攻擊或威脅。",
  	 	 	 	"eng": "No personal attacks or threats."
  	 	 	},
  	 	 	"rule4": {
- 	 	 	 	"trans": "沒有不適當的語言。",
+ 	 	 	 	"trans": "不發送不適當的語言。",
  	 	 	 	"eng": "No inappropriate language."
  	 	 	},
  	 	 	"footer": {
@@ -3706,7 +3706,7 @@
  	 	 	 	"eng": "You will be MUTED if you breach any of the rules"
  	 	 	},
  	 	 	"footer2": {
- 	 	 	 	"trans": "可以在配置文件>教程>規則中找到完整的規則列表",
+ 	 	 	 	"trans": "可以在個人檔案 > 教學 > Rules中找到完整的規則",
  	 	 	 	"eng": "Full list of rules can be found in Profile > Tutorials > Rules"
  	 	 	},
  	 	 	"disagreeButtonButton": {
@@ -3802,7 +3802,7 @@
  	 	 	 	"eng": "An update has been installed"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "請單擊“重新加載”繼續",
+ 	 	 	 	"trans": "請點擊“重新加載”繼續",
  	 	 	 	"eng": "Please click reload to continue"
  	 	 	},
  	 	 	"reloadButton": {
@@ -3873,7 +3873,7 @@
  	 	 	"vars": [
  	 	 	 	"globalQuestPoint"
  	 	 	],
- 	 	 	"trans": "${globalQuestPoint} SL數據堡壘違規進度",
+ 	 	 	"trans": "${globalQuestPoint} SL數據堡壘破壞進度",
  	 	 	"eng": "${globalQuestPoint} SL Data Fortress breach progress"
  	 	}
  	},
@@ -3883,7 +3883,7 @@
  	 	 	"eng": "Requires you to be in a gang"
  	 	},
  	 	"requireTopGang": {
- 	 	 	"trans": "你需要在佔領排行榜上排名前2名的公會",
+ 	 	 	"trans": "你必須為佔領排行榜上排名前2名的公會",
  	 	 	"eng": "Requires you to be in the Top 2 Gangs on the Occupation Leaderboard"
  	 	}
  	},
@@ -3917,7 +3917,7 @@
  	 	 	"eng": "Synaptic Acceleration (Rare)"
  	 	},
  	 	"expBonus": {
- 	 	 	"trans": "额叶皮质增强",
+ 	 	 	"trans": "額葉皮質增強",
  	 	 	"eng": "Frontal Cortex Enhancement"
  	 	},
  	 	"btcBonus": {
@@ -3988,7 +3988,7 @@
  	"IAP": {
  	 	"currency": {
  	 	 	"mostEfficient": {
- 	 	 	 	"trans": "最有效率！",
+ 	 	 	 	"trans": "最划算的！",
  	 	 	 	"eng": "Most Efficient!"
  	 	 	},
  	 	 	"paypalExclusive": {
@@ -4289,7 +4289,7 @@
  	 	 	 	 	"eng": "Gold chat frame (with animation)"
  	 	 	 	},
  	 	 	 	"4": {
- 	 	 	 	 	"trans": "金框架概況（自帶動畫）",
+ 	 	 	 	 	"trans": "金框架個人檔案（自帶動畫）",
  	 	 	 	 	"eng": "Gold Framed Profile (with animation)"
  	 	 	 	},
  	 	 	 	"5": {
@@ -4297,7 +4297,7 @@
  	 	 	 	 	"eng": "Unlock custom bio"
  	 	 	 	},
  	 	 	 	"6": {
- 	 	 	 	 	"trans": "配置個人檔案的條形碼裝飾",
+ 	 	 	 	 	"trans": "配置個人檔案的條碼裝飾",
  	 	 	 	 	"eng": "Barcode decoration on profile"
  	 	 	 	},
  	 	 	 	"7": {
@@ -4325,11 +4325,11 @@
  	 	 	 	 	"eng": "Unlock profile picture customization"
  	 	 	 	},
  	 	 	 	"3": {
- 	 	 	 	 	"trans": "紫色聊天框架（帶動畫）",
+ 	 	 	 	 	"trans": "紫色聊天框架（自帶動畫）",
  	 	 	 	 	"eng": "Purple chat frame (with animation)"
  	 	 	 	},
  	 	 	 	"4": {
- 	 	 	 	 	"trans": "紫色框架配置文件（有動畫）",
+ 	 	 	 	 	"trans": "紫色框架個人檔案（自帶動畫）",
  	 	 	 	 	"eng": "Purple Framed Profile (with animation)"
  	 	 	 	},
  	 	 	 	"5": {
@@ -4337,7 +4337,7 @@
  	 	 	 	 	"eng": "Unlock custom bio"
  	 	 	 	},
  	 	 	 	"6": {
- 	 	 	 	 	"trans": "配置個人檔案的條形碼裝飾",
+ 	 	 	 	 	"trans": "配置個人檔案的條碼裝飾",
  	 	 	 	 	"eng": "Barcode decoration on profile"
  	 	 	 	},
  	 	 	 	"7": {
@@ -4377,7 +4377,7 @@
  	 	 	 	 	"eng": "Potato chat frame (with animation)"
  	 	 	 	},
  	 	 	 	"6": {
- 	 	 	 	 	"trans": "馬鈴薯框架的概況（自帶動畫）",
+ 	 	 	 	 	"trans": "馬鈴薯框架的個人檔案（自帶動畫）",
  	 	 	 	 	"eng": "Potato Framed Profile (with animation)"
  	 	 	 	},
  	 	 	 	"7": {
@@ -4385,7 +4385,7 @@
  	 	 	 	 	"eng": "Unlock custom bio"
  	 	 	 	},
  	 	 	 	"8": {
- 	 	 	 	 	"trans": "配置個人檔案的條形碼裝飾",
+ 	 	 	 	 	"trans": "配置個人檔案的條碼裝飾",
  	 	 	 	 	"eng": "Barcode decoration on profile"
  	 	 	 	},
  	 	 	 	"9": {
@@ -4425,11 +4425,11 @@
  	 	 	"eng": "helmet"
  	 	},
  	 	"upperArmor": {
- 	 	 	"trans": "上身裝甲",
+ 	 	 	"trans": "上半身裝甲",
  	 	 	"eng": "upper armor"
  	 	},
  	 	"lowerArmor": {
- 	 	 	"trans": "下身裝甲",
+ 	 	 	"trans": "下半身裝甲",
  	 	 	"eng": "lower armor"
  	 	},
  	 	"boots": {
@@ -4450,7 +4450,7 @@
  	"donationPage": {
  	 	"message": {
  	 	 	"content1": {
- 	 	 	 	"trans": "您好，親愛玩家！",
+ 	 	 	 	"trans": "您好，親愛的玩家！",
  	 	 	 	"eng": "Hello, dear players!"
  	 	 	},
  	 	 	"content2": {
@@ -4458,11 +4458,11 @@
  	 	 	 	"eng": "I am Dexter, the developer of CyberCode Online."
  	 	 	},
  	 	 	"content3": {
- 	 	 	 	"trans": "如果您有一些閑錢，您可以贊助開發人員持續地開發遊戲，這將會試非常大的幫助。",
+ 	 	 	 	"trans": "如果您有一些閑錢，您可以贊助開發人員持續地開發遊戲，這將會是非常大的幫助。",
  	 	 	 	"eng": "If you have some spare change it would be very helpful if you could donate to help with continued support and development of the game."
  	 	 	},
  	 	 	"content4": {
- 	 	 	 	"trans": "請您在有閑錢的情況下進行捐贈，所有的福利將平等的給予所有玩家，並不會在遊戲中佔據優勢。",
+ 	 	 	 	"trans": "請您在有閑錢的情況下進行捐贈，所有的福利將平等的給予所有玩家，並不會在遊戲中產生落差。",
  	 	 	 	"eng": "Please only donate if you are comfortable, all benefits are designed to be fair for all players and will not give an edge in gameplay."
  	 	 	}
  	 	},
@@ -4527,7 +4527,7 @@
  	 	 	 	 	"eng": "Print equipment"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "使用分子列印來列印任何物品快取記憶體",
+ 	 	 	 	 	"trans": "使用分子列印來列印任何物品快取",
  	 	 	 	 	"eng": "use molecular print to print any item cache"
  	 	 	 	}
  	 	 	},
@@ -4543,31 +4543,31 @@
  	 	 	},
  	 	 	"clearChallengeDungeon": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "清理挑戰地下城",
+ 	 	 	 	 	"trans": "完成挑戰地下城",
  	 	 	 	 	"eng": "Clear challenge dungeon"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "清理地下城（可以是合作地下城）",
+ 	 	 	 	 	"trans": "完成挑戰地下城（可以是合作地下城）",
  	 	 	 	 	"eng": "Clear a challenge dungeon (can be co-op)"
  	 	 	 	}
  	 	 	},
  	 	 	"clearDungeon": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "清理地下城",
+ 	 	 	 	 	"trans": "完成地下城",
  	 	 	 	 	"eng": "Clear dungeon"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "清理任何地下城（可以是合作地下城）",
+ 	 	 	 	 	"trans": "完成任何地下城（可以是合作地下城）",
  	 	 	 	 	"eng": "Clear any dungeon (can be co-op)"
  	 	 	 	}
  	 	 	},
  	 	 	"clearDungeonCoOp": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "與朋友清理地下城",
+ 	 	 	 	 	"trans": "與朋友完成地下城",
  	 	 	 	 	"eng": "Clear dungeon with friends"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "與1名或更多玩家清理任何地下城",
+ 	 	 	 	 	"trans": "與1名或更多玩家完成任何地下城",
  	 	 	 	 	"eng": "Clear any dungeon with 1 or more players"
  	 	 	 	}
  	 	 	},
